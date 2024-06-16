@@ -1,2 +1,2 @@
-# diabetic-ketoaddosis-protocol
-Working on a next app for my dad at the hospital
+# HyperFocus
+Making a site for local run group HyperFocus
